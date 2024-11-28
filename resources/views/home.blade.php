@@ -1,5 +1,7 @@
 <x-layouts.app>
 
+    @section('title', 'Main Page')
+
     <h2>Welkom op onze website !</h2>
 
     <h1>FootyGokken !</h1>
